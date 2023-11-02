@@ -20,3 +20,7 @@ Key Features: Data cleaning, preparation, analysis, and statistics.
 Numpy
 Purpose: Numerical computing library for working with arrays and matrices.
 Key Features: Efficient numerical operations and mathematical functions.
+
+Matplotlib
+Purpose: Plotting and data visualization.
+Key Features: Creating various types of plots (line, bar, pie, scatter, etc.).
